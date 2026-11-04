@@ -1,3 +1,6 @@
+# JanusForge Names
+Owen, Amine, Joshua, Idris
+
 # F1 Overtake Window Predictor
 
 A deep learning project to predict whether a Formula 1 driver will overtake the car directly ahead within the next 60 seconds, using the preceding 30 seconds of race telemetry.
