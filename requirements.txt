@@ -1,0 +1,8 @@
+# Tested workflow: Python 3.10-3.12 (local machine or Google Colab)
+# pandas >= 2.0 is required for pd.to_datetime(..., format="mixed")
+numpy>=1.26,<3
+pandas>=2.1,<3
+scikit-learn>=1.4,<2
+matplotlib>=3.7,<4
+torch>=2.2,<3
+joblib>=1.3,<2
