@@ -1,0 +1,25 @@
+circuit_key,circuit_short_name,country_code,country_key,country_name,date_end,date_start,gmt_offset,is_cancelled,location,meeting_key,session_key,session_name,session_type,year
+63,Sakhir,BRN,36,Bahrain,2024-03-02 17:00:00+00:00,2024-03-02 15:00:00+00:00,03:00:00,False,Sakhir,1229,9472,Race,Race,2024
+149,Jeddah,KSA,153,Saudi Arabia,2024-03-09 19:00:00+00:00,2024-03-09 17:00:00+00:00,03:00:00,False,Jeddah,1230,9480,Race,Race,2024
+10,Melbourne,AUS,5,Australia,2024-03-24 06:00:00+00:00,2024-03-24 04:00:00+00:00,11:00:00,False,Melbourne,1231,9488,Race,Race,2024
+46,Suzuka,JPN,4,Japan,2024-04-07 07:00:00+00:00,2024-04-07 05:00:00+00:00,09:00:00,False,Suzuka,1232,9496,Race,Race,2024
+49,Shanghai,CHN,53,China,2024-04-21 09:00:00+00:00,2024-04-21 07:00:00+00:00,08:00:00,False,Shanghai,1233,9673,Race,Race,2024
+151,Miami,USA,19,United States,2024-05-05 22:00:00+00:00,2024-05-05 20:00:00+00:00,-04:00:00,False,Miami,1234,9507,Race,Race,2024
+6,Imola,ITA,13,Italy,2024-05-19 15:00:00+00:00,2024-05-19 13:00:00+00:00,02:00:00,False,Imola,1235,9515,Race,Race,2024
+22,Monte Carlo,MON,114,Monaco,2024-05-26 15:00:00+00:00,2024-05-26 13:00:00+00:00,02:00:00,False,Monaco,1236,9523,Race,Race,2024
+23,Montreal,CAN,46,Canada,2024-06-09 20:00:00+00:00,2024-06-09 18:00:00+00:00,-04:00:00,False,Montréal,1237,9531,Race,Race,2024
+15,Catalunya,ESP,1,Spain,2024-06-23 15:00:00+00:00,2024-06-23 13:00:00+00:00,02:00:00,False,Barcelona,1238,9539,Race,Race,2024
+19,Spielberg,AUT,17,Austria,2024-06-30 15:00:00+00:00,2024-06-30 13:00:00+00:00,02:00:00,False,Spielberg,1239,9550,Race,Race,2024
+2,Silverstone,GBR,2,United Kingdom,2024-07-07 16:00:00+00:00,2024-07-07 14:00:00+00:00,01:00:00,False,Silverstone,1240,9558,Race,Race,2024
+4,Hungaroring,HUN,14,Hungary,2024-07-21 15:00:00+00:00,2024-07-21 13:00:00+00:00,02:00:00,False,Budapest,1241,9566,Race,Race,2024
+7,Spa-Francorchamps,BEL,16,Belgium,2024-07-28 15:00:00+00:00,2024-07-28 13:00:00+00:00,02:00:00,False,Spa-Francorchamps,1242,9574,Race,Race,2024
+55,Zandvoort,NED,133,Netherlands,2024-08-25 15:00:00+00:00,2024-08-25 13:00:00+00:00,02:00:00,False,Zandvoort,1243,9582,Race,Race,2024
+39,Monza,ITA,13,Italy,2024-09-01 15:00:00+00:00,2024-09-01 13:00:00+00:00,02:00:00,False,Monza,1244,9590,Race,Race,2024
+144,Baku,AZE,30,Azerbaijan,2024-09-15 13:00:00+00:00,2024-09-15 11:00:00+00:00,04:00:00,False,Baku,1245,9598,Race,Race,2024
+61,Singapore,SGP,157,Singapore,2024-09-22 14:00:00+00:00,2024-09-22 12:00:00+00:00,08:00:00,False,Marina Bay,1246,9606,Race,Race,2024
+9,Austin,USA,19,United States,2024-10-20 21:00:00+00:00,2024-10-20 19:00:00+00:00,-05:00:00,False,Austin,1247,9617,Race,Race,2024
+65,Mexico City,MEX,8,Mexico,2024-10-27 22:00:00+00:00,2024-10-27 20:00:00+00:00,-06:00:00,False,Mexico City,1248,9625,Race,Race,2024
+14,Interlagos,BRA,10,Brazil,2024-11-03 17:30:00+00:00,2024-11-03 15:30:00+00:00,-03:00:00,False,São Paulo,1249,9636,Race,Race,2024
+152,Las Vegas,USA,19,United States,2024-11-24 07:59:59+00:00,2024-11-24 06:00:00+00:00,-08:00:00,False,Las Vegas,1250,9644,Race,Race,2024
+150,Lusail,QAT,149,Qatar,2024-12-01 18:00:00+00:00,2024-12-01 16:00:00+00:00,03:00:00,False,Lusail,1251,9655,Race,Race,2024
+70,Yas Marina Circuit,UAE,21,United Arab Emirates,2024-12-08 15:00:00+00:00,2024-12-08 13:00:00+00:00,04:00:00,False,Yas Island,1252,9662,Race,Race,2024
