@@ -1,20 +1,29 @@
-# JanusForge Names
-Owen, Amine, Joshua, Idris
-
 # F1 Overtake Window Predictor
 
-A deep learning project to predict whether a Formula 1 driver will overtake the car directly ahead within the next 60 seconds, using the preceding 30 seconds of race telemetry.
+**Team JanusForge** — Owen, Amine, Joshua, Ayobami 
 
-## Project Overview
-
-The model will use historical Formula 1 race data, including speed, throttle, braking, gear, DRS, and driver gaps, to predict overtaking opportunities.
+Deep learning project predicting whether a Formula 1 driver will overtake the car directly ahead within the next 60 seconds, using the previous 30 seconds of telemetry.
 
 ## Dataset
 
-**Source:** [OpenF1 API](https://openf1.org/docs/)
-
-We plan to use race data from the 2023–2025 Formula 1 seasons.
+Data from the [OpenF1 API](https://openf1.org/docs/), covering five 2024 races: Bahrain, Australia, Spain, Austria, and São Paulo.
 
 ## Milestone 1
 
-Our first milestone focuses on preparing the dataset, implementing a simple baseline and neural network model, and evaluating both on the same test set.
+- **Dataset:** 17,719 observations, 16 features
+- **Baseline:** Always predicts no overtake
+- **Model:** Feedforward Neural Network (FNN)
+- **Test set:** São Paulo 2024
+- **Results:** 94.65% accuracy
+
+## Running the Project
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open `milestone1.ipynb` and run all cells from top to bottom.
+
+Data preprocessing scripts are included in the repository.
