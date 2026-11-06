@@ -21,4 +21,4 @@ Data from the [OpenF1 API](https://openf1.org/docs/), covering five 2024 races: 
 1. Open [`milestone1_janusforge.ipynb`](milestone1_janusforge.ipynb) in Google Colab.
 2. Run all cells from top to bottom.
 
-The notebook already installs the required dependencies automatically, and raw race data and preprocessing scripts are included in the repository.
+The notebook already installs the required dependencies automatically, and raw race data and preprocessing scripts are included in the repository. The PDF report is in the repository as well: MS1_PDF_Report.pdf.
